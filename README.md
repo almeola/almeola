@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
+<h3 align="center">I research how AI can support a sustainable world.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almeola&label=Profile%20views&color=0e75b6&style=flat" alt="almeola" /> </p>
 
 - 🔭 I’m currently a researcher & PhD student at [DBFZ.](https://www.dbfz.de/prosim)
 
+- 👨‍💻 All my publications are available at [https://www.researchgate.net/profile/Alberto-Meola](https://www.researchgate.net/profile/Alberto-Meola)
+
 - 💬 Ask me about **AI & biochemical processes**
 
-- 📫 How to reach me **DM via LinkedIn**
+- 📫 You can reach me with a **DM via LinkedIn!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
